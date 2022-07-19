@@ -1,9 +1,0 @@
-Result of Time-Domain Analysis:
-F1=1.37
-F2=1.27
-
-**
-1.37
-1.27
-0
-0
